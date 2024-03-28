@@ -1,0 +1,23 @@
+.team-card{
+    display: flex;
+    align-items: center;
+    background-color: #ffffff33;
+    border-radius: 1rem;
+    padding: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    border: 2px solid #ffffff;
+    gap:  1.5rem;
+}
+
+.team-logo{
+    height: 8rem;
+    
+}
+
+.team-name{
+    font-size: 1.2rem;
+    color: #ffffff;
+}

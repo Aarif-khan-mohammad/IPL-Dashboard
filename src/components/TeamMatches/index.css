@@ -1,0 +1,118 @@
+.KXP{
+    background-image: linear-gradient(to bottom, #a4261d, #89113d, #5e1a4a, #301e42, #0f172a);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    font-family: "Bree Serif";
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+
+.RCB{
+    background-image: linear-gradient(to bottom, #d91c1f, #b1004c, #75185c, #37214e, #000000);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    font-family: "Bree Serif";
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.KKR{
+    background-image: linear-gradient(to bottom, #5755a7, #7777bb, #989bcd, #bbbedf, #e1e3f0);
+    height: 100%;
+    width: 100%;
+    font-family: "Bree Serif";
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.CSK{
+    background-image: linear-gradient(to bottom, #f7db00, #fe8748, #c0546b, #633f60, #212229);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    font-family: "Bree Serif";
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.RR{
+    background-image: linear-gradient(to bottom, #da237b, #9f347f, #66386f, #3a3150, #222329);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    font-family: "Bree Serif";
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.MI{
+    background-image: linear-gradient(to bottom, #455de5, #7c82ed, #a8a9f3, #d0d1f8, #f9f9fb);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    font-family: "Bree Serif";
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.SH{
+    background-image: linear-gradient(to bottom, #f26d22, #f26d22, #f26d22, #f26d22, #f26d22, #ea5937, #de4946, #ce3c52, #9e2f61, #672c5f, #33254a, #0f172a);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Bree Serif";
+    color: white;
+    
+    
+}
+
+.DC{
+    background-image: linear-gradient(to bottom, #4f5db0, #4f5db0, #4f5db0, #4f5db0, #4f5db0, #4857a4, #415198, #3a4b8c, #2d3e72, #213059, #172341, #0f172a);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    font-family: "Bree Serif";
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner{
+    height: 30rem;
+    padding-top: 3rem;
+    border-radius: 0.5rem;
+    -webkit-border-radius: 0.5rem;
+    -moz-border-radius: 0.5rem;
+    -ms-border-radius: 0.5rem;
+    -o-border-radius: 0.5rem;
+}
+
+.match-cards-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 1.5rem;
+    row-gap: 2rem;
+    width: 69%;
+    padding-right: 2.5rem;
+    padding-bottom: 4rem;
+}

@@ -1,0 +1,30 @@
+.match-card{
+    list-style: none;
+    background-color: #0f172a;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.prev{
+    height: 8rem;
+}
+
+.opposite-team-name{
+    width: 70%;
+    text-align: center;
+}
+
+.result{
+    width: 70%;
+    text-align: center;
+}
+
+.status-Won{
+    color: #18ed66;
+}
+
+.status-Lost{
+    color: #e31a1a;
+}
